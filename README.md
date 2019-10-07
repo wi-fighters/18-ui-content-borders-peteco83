@@ -4,4 +4,6 @@
 
 **Instructions**:
 
-1. Give the boxes their described borders.
+In the HTML document, you will find 8 `div` elements with descriptions of borders. Give each `div` the border according to its description.  
+
+![alt-text](/image/reference-image.png "Reference Image")
